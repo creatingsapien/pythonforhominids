@@ -4,7 +4,7 @@ title: python Fundamentals 1 - Built-in Objects
 ---
 <p>
 <img style="padding: 0 15px; float: right
-;" src="../img/python_logo_png_1124609sclance.png" width="350"/ >
+;" src="/img/python_logo_png_1124609sclance.png" width="350"/ >
 </p>
 <p style="margin-top: 20px;"> </p>
 <p>This class is the second in a series intended to teach you the essential basics of programming using Python and how to apply these basics to make things. The course can be taken a-la-carte based on the topic or can be attended regularly to become a well rounded python coder. I will cover all aspects of python language over the series. </p>
