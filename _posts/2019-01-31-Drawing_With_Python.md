@@ -5,8 +5,8 @@ title: application class1 - Computer Generated Art with Python
 ### Description
 
 <p align="center">
-  <img src=" ../img/drawingFl2.jpg" width="350" title="hover text">
-  <img src=" ../img/drawingFl2.jpg"  width="350" alt="accessibility text">
+  <img src="https://github.com/creatingsapien/pythonforhominids/tree/gh-pages/img" width="350" title="hover text">
+  <img src="../img/drawingFl2.jpg"  width="350" alt="accessibility text">
 </p>
 
 <p>This class is the first in a series intended to teach you the essential basics of programming using Python and how to apply these basics to make things. The course can be taken a-la-carte based on the topic or can be attended regularly to become a well rounded python coder. I will cover all aspects of python language over the series. </p>
