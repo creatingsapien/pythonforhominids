@@ -11,6 +11,9 @@ title: python Fundamentals 1 - Built-in Objects
 
 * image credit: http://www.sclance.com/pngs/python-logo-png
 
+<img src="https://github.com/creatingsapien/pythonforhominids/blob/gh-pages/img/python_logo_png_1124609sclance.png" alt="My cool logo"/>
+# My cool project and above is the logo of it
+
 **In the built in object class you will learn** 
 
 * Learn about the key components of python; the built in objects
