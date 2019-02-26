@@ -1,14 +1,8 @@
 ---
 layout: post
-title: python Fundamentals 1 - Built-in Objects 
+title: python Built-in Objects 
 ---
-![image](https://github.com/creatingsapien/pythonforhominids/blob/gh-pages/img/python_logo_png_1124609sclance.png)
-
-
-
 <p>This class is the second in a series intended to teach you the essential basics of programming using Python and how to apply these basics to make things. The course can be taken a-la-carte based on the topic or can be attended regularly to become a well rounded python coder. I will cover all aspects of python language over the series. </p>
-
-# My cool project and above is the logo of it
 
 **In the built in object class you will learn** 
 
@@ -29,6 +23,3 @@ You must bring a laptop to take this class.
 
 ## Registration
 You can register for the class on the eventbrite class sight or bring payment to class to get the member rate.
-
-
-* image credit: http://www.sclance.com/pngs/python-logo-png
