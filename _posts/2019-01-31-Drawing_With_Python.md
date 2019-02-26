@@ -4,7 +4,7 @@ title: application class1 - Computer Generated Art with Python
 ---
 ### Description
 
-![image](http://github.com/creatingsapien/pythonforhominids/tree/gh-pages/img/drawingFl2.jpg)
+![image](https://www.dropbox.com/s/58j6ph1o50uhdgo/379H.jpg?dl=0)
 
 this class is the first in a series intended to teach you the essential basics of programming using Python and how to apply these basics to make things. The course can be taken a-la-carte based on the topic or can be attended regularly to become a well rounded python coder. I will cover all aspects of python language over the series.
 
@@ -22,4 +22,4 @@ The first installment will show you how to use python’s implementation of turt
 
 ###### *Thursday, Jan 31 6:00 -8:00 at the ATX hackerspace*
 
-$ 75.00 per session for non members and $35 per session for ATX members. To get the member discount pay at the class. [Class link](https://www.eventbrite.com/e/python-for-makers-and-other-humans-drawing-with-python-tickets-55500616839?aff=GunnarPython)
+$ 80.00 per session for non members and $40 per session for ATX members. To get the member discount pay at the class. [Class link](https://www.eventbrite.com/e/python-for-makers-and-other-humans-drawing-with-python-tickets-55500616839?aff=GunnarPython)
