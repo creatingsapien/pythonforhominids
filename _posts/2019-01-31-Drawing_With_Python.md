@@ -4,7 +4,7 @@ title: application class1 - Computer Generated Art with Python
 ---
 ### Description
 
-![image](https://github.com/creatingsapien/pythonforhominids/tree/gh-pages/img/drawingFl2.jpg)
+![image](http://github.com/creatingsapien/pythonforhominids/tree/gh-pages/img/drawingFl2.jpg)
 
 this class is the first in a series intended to teach you the essential basics of programming using Python and how to apply these basics to make things. The course can be taken a-la-carte based on the topic or can be attended regularly to become a well rounded python coder. I will cover all aspects of python language over the series.
 
