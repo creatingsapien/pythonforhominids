@@ -2,7 +2,7 @@
 layout: post
 title: python Fundamentals 1 - Built-in Objects 
 ---
-![image]("https://github.com/creatingsapien/pythonforhominids/blob/gh-pages/img/python_logo_png_1124609sclance.png" width="350")
+![image](https://github.com/creatingsapien/pythonforhominids/blob/gh-pages/img/python_logo_png_1124609sclance.png)
 * image credit: http://www.sclance.com/pngs/python-logo-png
 
 
