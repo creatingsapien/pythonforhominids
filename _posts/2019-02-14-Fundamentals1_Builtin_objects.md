@@ -30,5 +30,5 @@ You must bring a laptop to take this class.
 ## Registration
 You can register for the class on the eventbrite class sight or bring payment to class to get the member rate.
 
------
+
 * image credit: http://www.sclance.com/pngs/python-logo-png
