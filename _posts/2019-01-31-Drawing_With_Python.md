@@ -4,8 +4,6 @@ title: application class1 - Computer Generated Art with Python
 ---
 ### Description
 
-![image](https://www.dropbox.com/s/58j6ph1o50uhdgo/379H.jpg?dl=0 "__")
-
 this class is the first in a series intended to teach you the essential basics of programming using Python and how to apply these basics to make things. The course can be taken a-la-carte based on the topic or can be attended regularly to become a well rounded python coder. I will cover all aspects of python language over the series.
 
 **In class 1 you will learn** 
