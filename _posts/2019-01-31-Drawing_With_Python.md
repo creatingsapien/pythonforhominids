@@ -1,6 +1,6 @@
 ---
 layout: post
-title: application class1 - Computer Generated Art with Python 
+title: Computer Generated Art with Python 
 ---
 ### Description
 
