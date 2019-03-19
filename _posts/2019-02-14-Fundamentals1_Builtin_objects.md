@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python Built-in Objects 
+title: Python Built-In Objects 
 ---
 
 
