@@ -1,6 +1,6 @@
 Python Teaching Series: 
 
-# Python for Makers - FCC Wireless Data Analysis
+# FCC Wireless Data Analysis with python pandas
 
 ###### *Thursday, March 14 6:00 -8:00 at the ATX hackerspace*
 
