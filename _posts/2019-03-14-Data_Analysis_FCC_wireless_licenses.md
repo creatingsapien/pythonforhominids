@@ -1,8 +1,8 @@
 Python Teaching Series: 
 
-# FCC Wireless Data Analysis with python pandas
+# FCC Wireless Data Analysis with Python Pandas
 
-###### *Thursday, March 14 6:00 -8:00 at the ATX hackerspace*
+###### *Thursday, March 14 6:00-8:00 at the ATX hackerspace*
 
 $80.00 per session for non members and $40 per session for ATX members, pay through eventbrite. To get the member discount contact dean@atxhackerspace.org for the discount code. 
 
