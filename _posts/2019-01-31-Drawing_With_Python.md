@@ -25,3 +25,4 @@ The first installment will show you how to use python’s implementation of turt
 
 $ 80.00 per session for non members and $40 per session for ATX members. To get the member discount pay at the class. [Class link](https://www.eventbrite.com/e/python-for-makers-and-other-humans-drawing-with-python-tickets-55500616839?aff=GunnarPython)
 
+{% include disqus.html %}
